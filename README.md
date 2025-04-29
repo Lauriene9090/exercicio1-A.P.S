@@ -6,3 +6,8 @@ Esses sistemas proporcionam diversas funcionalidades, como controle de atividade
 Uma biblioteca é um espaço destinado à armazenagem e organização de livros, revistas, 
 periódicos, documentos e outros materiais de informação, com o objetivo de facilitar o acesso à 
 informação e promover a disseminação do conhecimento.
+
+
+Estilo arquitetural utilizado: 
+
+monolítico
